@@ -1,2 +1,2 @@
 # tic-tac-toe
-Created an app tic-tac-tie using html/css and javascript.
+Created an app tic-tac-toe using html/css and javascript.
